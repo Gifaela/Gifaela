@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Giulia Potenza! 
+### Sobre mim:
 
 - 🌱 Estundando Java no Bootcamp da Generation Brasil
 - 😄 Pronouns: ela/dela/she/her
@@ -10,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gifaela&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ## Minhas skills :nerd_face:
+## Minhas skills :nerd_face:
 <div align="center">
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,11 +20,12 @@
     <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_luSfvfMy.png">
   
-  
+## Meus contatos :iphone:
   <div>
-   <a href="https://www.linkedin.com/in/giulia-potenza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:giulia-rafa@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+   <a href="https://linkedin.com/in/giulia-potenza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:giulia-rafa@hotmail.com"  target="_blank" ><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+target="_blank"></a>  
   <a href="https://instagram.com/heey_giulia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     
  
