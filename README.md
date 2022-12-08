@@ -2,7 +2,7 @@
 ### Sobre mim:
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - UNIP
-- 🌱 Cursando Santander Bootcamp Fullstack Developer - DIO
+- 🌱 Cursei Santander Bootcamp Fullstack Developer - DIO
 - 🎓 Cursei Java no Bootcamp - Generation Brasil
 - 😄 Pronouns: ela/dela/she/her
 - 🎂 Idade: 24 anos
