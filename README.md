@@ -5,7 +5,7 @@
 - 🌱 Cursei Santander Bootcamp Fullstack Developer - DIO
 - 🎓 Cursei Java no Bootcamp - Generation Brasil
 - 😄 Pronouns: ela/dela/she/her
-- 🎂 Idade: 24 anos
+- 🎂 Idade: 25 anos
 
 <div align="center">
   <a href="https://github.com/Gifaela">
@@ -21,8 +21,6 @@
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_luSfvfMy.png">
 </div>  
 
 ## Meus contatos :iphone:
