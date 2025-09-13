@@ -1,11 +1,9 @@
 ## Olá! Eu sou a Giulia Potenza! 
 ### Sobre mim:
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - UNIP
+- 📚 Cursei Análise e Desenvolvimento de Sistemas - UNIP
 - 🌱 Cursei Santander Bootcamp Fullstack Developer - DIO
-- 🎓 Cursei Java no Bootcamp - Generation Brasil
-- 😄 Pronouns: ela/dela/she/her
-- 🎂 Idade: 25 anos
+- 🎂 Idade: 27 anos
 
 <div align="center">
   <a href="https://github.com/Gifaela">
